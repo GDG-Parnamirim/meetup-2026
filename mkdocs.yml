@@ -1,0 +1,11 @@
+site_name: GDG Meetup 2026
+site_url: https://gdg-parnamirim.github.io/meetup-2026/
+
+# Repository
+repo_name: gdg-parnamirim/meetup-2026
+repo_url: https://github.com/gdg-parnamirim/meetup-2026
+
+theme:
+  name: material
+  language: pt
+
